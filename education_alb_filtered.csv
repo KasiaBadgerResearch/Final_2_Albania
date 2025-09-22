@@ -1,0 +1,5 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Albania,ALB,2010,Barro-Lee: Percentage of female population age 15+ with no education,BAR.NOED.15UP.FE.ZS,4.39
+Albania,ALB,2005,Barro-Lee: Percentage of female population age 15+ with no education,BAR.NOED.15UP.FE.ZS,3.07
+Albania,ALB,2000,Barro-Lee: Percentage of female population age 15+ with no education,BAR.NOED.15UP.FE.ZS,1.71

@@ -1,0 +1,222 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Albania,ALB,2022,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,2.7
+Albania,ALB,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,2.8
+Albania,ALB,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,5.3
+Albania,ALB,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.8
+Albania,ALB,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,10.3
+Albania,ALB,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,12.9
+Albania,ALB,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,15.4
+Albania,ALB,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,17.9
+Albania,ALB,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,20.5
+Albania,ALB,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,23
+Albania,ALB,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,25.5
+Albania,ALB,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,28.1
+Albania,ALB,2020,Income share held by second 20%,SI.DST.02ND.20,13.2
+Albania,ALB,2019,Income share held by second 20%,SI.DST.02ND.20,13
+Albania,ALB,2018,Income share held by second 20%,SI.DST.02ND.20,13
+Albania,ALB,2017,Income share held by second 20%,SI.DST.02ND.20,12
+Albania,ALB,2016,Income share held by second 20%,SI.DST.02ND.20,11.9
+Albania,ALB,2015,Income share held by second 20%,SI.DST.02ND.20,12.1
+Albania,ALB,2014,Income share held by second 20%,SI.DST.02ND.20,11.5
+Albania,ALB,2012,Income share held by second 20%,SI.DST.02ND.20,13.2
+Albania,ALB,2008,Income share held by second 20%,SI.DST.02ND.20,13.1
+Albania,ALB,2005,Income share held by second 20%,SI.DST.02ND.20,12.9
+Albania,ALB,2002,Income share held by second 20%,SI.DST.02ND.20,12.6
+Albania,ALB,1996,Income share held by second 20%,SI.DST.02ND.20,13.9
+Albania,ALB,2020,Income share held by third 20%,SI.DST.03RD.20,17.3
+Albania,ALB,2019,Income share held by third 20%,SI.DST.03RD.20,17
+Albania,ALB,2018,Income share held by third 20%,SI.DST.03RD.20,17.5
+Albania,ALB,2017,Income share held by third 20%,SI.DST.03RD.20,16.5
+Albania,ALB,2016,Income share held by third 20%,SI.DST.03RD.20,16.4
+Albania,ALB,2015,Income share held by third 20%,SI.DST.03RD.20,16.5
+Albania,ALB,2014,Income share held by third 20%,SI.DST.03RD.20,16.4
+Albania,ALB,2012,Income share held by third 20%,SI.DST.03RD.20,17.3
+Albania,ALB,2008,Income share held by third 20%,SI.DST.03RD.20,16.8
+Albania,ALB,2005,Income share held by third 20%,SI.DST.03RD.20,17
+Albania,ALB,2002,Income share held by third 20%,SI.DST.03RD.20,16.5
+Albania,ALB,1996,Income share held by third 20%,SI.DST.03RD.20,17.6
+Albania,ALB,2020,Income share held by fourth 20%,SI.DST.04TH.20,23
+Albania,ALB,2019,Income share held by fourth 20%,SI.DST.04TH.20,22.7
+Albania,ALB,2018,Income share held by fourth 20%,SI.DST.04TH.20,23.3
+Albania,ALB,2017,Income share held by fourth 20%,SI.DST.04TH.20,23.3
+Albania,ALB,2016,Income share held by fourth 20%,SI.DST.04TH.20,23.2
+Albania,ALB,2015,Income share held by fourth 20%,SI.DST.04TH.20,23
+Albania,ALB,2014,Income share held by fourth 20%,SI.DST.04TH.20,23.3
+Albania,ALB,2012,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Albania,ALB,2008,Income share held by fourth 20%,SI.DST.04TH.20,22.2
+Albania,ALB,2005,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Albania,ALB,2002,Income share held by fourth 20%,SI.DST.04TH.20,22.2
+Albania,ALB,1996,Income share held by fourth 20%,SI.DST.04TH.20,23.4
+Albania,ALB,2020,Income share held by highest 20%,SI.DST.05TH.20,38
+Albania,ALB,2019,Income share held by highest 20%,SI.DST.05TH.20,38.8
+Albania,ALB,2018,Income share held by highest 20%,SI.DST.05TH.20,38.2
+Albania,ALB,2017,Income share held by highest 20%,SI.DST.05TH.20,40.7
+Albania,ALB,2016,Income share held by highest 20%,SI.DST.05TH.20,41.2
+Albania,ALB,2015,Income share held by highest 20%,SI.DST.05TH.20,40.6
+Albania,ALB,2014,Income share held by highest 20%,SI.DST.05TH.20,41.7
+Albania,ALB,2012,Income share held by highest 20%,SI.DST.05TH.20,37.8
+Albania,ALB,2008,Income share held by highest 20%,SI.DST.05TH.20,39
+Albania,ALB,2005,Income share held by highest 20%,SI.DST.05TH.20,39.2
+Albania,ALB,2002,Income share held by highest 20%,SI.DST.05TH.20,40.3
+Albania,ALB,1996,Income share held by highest 20%,SI.DST.05TH.20,36
+Albania,ALB,2020,Income share held by highest 10%,SI.DST.10TH.10,22.8
+Albania,ALB,2019,Income share held by highest 10%,SI.DST.10TH.10,23.6
+Albania,ALB,2018,Income share held by highest 10%,SI.DST.10TH.10,22.7
+Albania,ALB,2017,Income share held by highest 10%,SI.DST.10TH.10,24.6
+Albania,ALB,2016,Income share held by highest 10%,SI.DST.10TH.10,25
+Albania,ALB,2015,Income share held by highest 10%,SI.DST.10TH.10,24.8
+Albania,ALB,2014,Income share held by highest 10%,SI.DST.10TH.10,25.5
+Albania,ALB,2012,Income share held by highest 10%,SI.DST.10TH.10,22.9
+Albania,ALB,2008,Income share held by highest 10%,SI.DST.10TH.10,24.4
+Albania,ALB,2005,Income share held by highest 10%,SI.DST.10TH.10,24.3
+Albania,ALB,2002,Income share held by highest 10%,SI.DST.10TH.10,25.3
+Albania,ALB,1996,Income share held by highest 10%,SI.DST.10TH.10,20.7
+Albania,ALB,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.6
+Albania,ALB,2019,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.6
+Albania,ALB,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.8
+Albania,ALB,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.7
+Albania,ALB,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.7
+Albania,ALB,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.8
+Albania,ALB,2014,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,14.4
+Albania,ALB,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.8
+Albania,ALB,2008,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.2
+Albania,ALB,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9
+Albania,ALB,2002,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.4
+Albania,ALB,1996,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.5
+Albania,ALB,2020,Income share held by lowest 10%,SI.DST.FRST.10,3.4
+Albania,ALB,2019,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Albania,ALB,2018,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Albania,ALB,2017,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Albania,ALB,2016,Income share held by lowest 10%,SI.DST.FRST.10,3
+Albania,ALB,2015,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Albania,ALB,2014,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Albania,ALB,2012,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Albania,ALB,2008,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Albania,ALB,2005,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Albania,ALB,2002,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Albania,ALB,1996,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Albania,ALB,2020,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Albania,ALB,2019,Income share held by lowest 20%,SI.DST.FRST.20,8.5
+Albania,ALB,2018,Income share held by lowest 20%,SI.DST.FRST.20,7.9
+Albania,ALB,2017,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Albania,ALB,2016,Income share held by lowest 20%,SI.DST.FRST.20,7.3
+Albania,ALB,2015,Income share held by lowest 20%,SI.DST.FRST.20,7.7
+Albania,ALB,2014,Income share held by lowest 20%,SI.DST.FRST.20,7
+Albania,ALB,2012,Income share held by lowest 20%,SI.DST.FRST.20,8.9
+Albania,ALB,2008,Income share held by lowest 20%,SI.DST.FRST.20,8.9
+Albania,ALB,2005,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Albania,ALB,2002,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Albania,ALB,1996,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Albania,ALB,2020,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,0.3
+Albania,ALB,2019,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,0.3
+Albania,ALB,2018,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1
+Albania,ALB,2017,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.4
+Albania,ALB,2016,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.1
+Albania,ALB,2015,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.1
+Albania,ALB,2014,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,3.7
+Albania,ALB,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.8
+Albania,ALB,2008,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,0.8
+Albania,ALB,2005,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2.7
+Albania,ALB,2002,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,4.2
+Albania,ALB,1996,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,3
+Albania,ALB,2020,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0
+Albania,ALB,2019,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0
+Albania,ALB,2018,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.1
+Albania,ALB,2017,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.2
+Albania,ALB,2016,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.1
+Albania,ALB,2015,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.1
+Albania,ALB,2014,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.6
+Albania,ALB,2012,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.4
+Albania,ALB,2008,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.1
+Albania,ALB,2005,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.4
+Albania,ALB,2002,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.7
+Albania,ALB,1996,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.4
+Albania,ALB,2020,Gini index,SI.POV.GINI,29.4
+Albania,ALB,2019,Gini index,SI.POV.GINI,30.1
+Albania,ALB,2018,Gini index,SI.POV.GINI,30.1
+Albania,ALB,2017,Gini index,SI.POV.GINI,33.1
+Albania,ALB,2016,Gini index,SI.POV.GINI,33.7
+Albania,ALB,2015,Gini index,SI.POV.GINI,32.8
+Albania,ALB,2014,Gini index,SI.POV.GINI,34.6
+Albania,ALB,2012,Gini index,SI.POV.GINI,29
+Albania,ALB,2008,Gini index,SI.POV.GINI,30
+Albania,ALB,2005,Gini index,SI.POV.GINI,30.6
+Albania,ALB,2002,Gini index,SI.POV.GINI,31.7
+Albania,ALB,1996,Gini index,SI.POV.GINI,27
+Albania,ALB,2020,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,2.1
+Albania,ALB,2019,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,1.8
+Albania,ALB,2018,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,3.5
+Albania,ALB,2017,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,4.7
+Albania,ALB,2016,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,5.8
+Albania,ALB,2015,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,4.7
+Albania,ALB,2014,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,12.5
+Albania,ALB,2012,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,6.5
+Albania,ALB,2008,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,5.9
+Albania,ALB,2005,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,9.4
+Albania,ALB,2002,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,15.1
+Albania,ALB,1996,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,11.9
+Albania,ALB,2020,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.3
+Albania,ALB,2019,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.3
+Albania,ALB,2018,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.7
+Albania,ALB,2017,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,1
+Albania,ALB,2016,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,1
+Albania,ALB,2015,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.9
+Albania,ALB,2014,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,2.7
+Albania,ALB,2012,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,1.4
+Albania,ALB,2008,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.9
+Albania,ALB,2005,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,1.9
+Albania,ALB,2002,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,3.1
+Albania,ALB,1996,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,2.3
+Albania,ALB,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,22
+Albania,ALB,2019,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,21.8
+Albania,ALB,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23
+Albania,ALB,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.4
+Albania,ALB,2016,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.7
+Albania,ALB,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.5
+Albania,ALB,2002,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.4
+Albania,ALB,2020,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,19.9
+Albania,ALB,2019,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,21.5
+Albania,ALB,2018,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,24.1
+Albania,ALB,2017,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,32.7
+Albania,ALB,2016,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,32.9
+Albania,ALB,2015,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,32.8
+Albania,ALB,2014,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,46.5
+Albania,ALB,2012,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,45.9
+Albania,ALB,2008,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,43.4
+Albania,ALB,2005,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,50
+Albania,ALB,2002,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,61
+Albania,ALB,1996,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,58.6
+Albania,ALB,2020,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,4.9
+Albania,ALB,2019,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,5
+Albania,ALB,2018,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,6.6
+Albania,ALB,2017,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,9.3
+Albania,ALB,2016,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,9.6
+Albania,ALB,2015,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,9.2
+Albania,ALB,2014,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,16.2
+Albania,ALB,2012,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,13.4
+Albania,ALB,2008,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,11.8
+Albania,ALB,2005,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,15.6
+Albania,ALB,2002,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,21.1
+Albania,ALB,1996,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,18.7
+Albania,ALB,2020,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,8.03
+Albania,ALB,2018,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,7.43
+Albania,ALB,2020,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,3.96
+Albania,ALB,2020,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,14.85
+Albania,ALB,2018,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,14.17
+Albania,ALB,2020,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,2.36
+Albania,ALB,2020,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,43.4
+Albania,ALB,2019,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,46.2
+Albania,ALB,2018,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,49
+Albania,ALB,2017,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,51.8
+Albania,ALB,2019,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,49.4
+Albania,ALB,2018,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,52.4
+Albania,ALB,2017,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,54.8
+Albania,ALB,2020,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,44.5
+Albania,ALB,2019,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,46.9
+Albania,ALB,2018,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,49.9
+Albania,ALB,2017,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,52.3
+Albania,ALB,2020,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,42.3
+Albania,ALB,2019,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,45.5
+Albania,ALB,2018,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,48
+Albania,ALB,2017,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,51.3

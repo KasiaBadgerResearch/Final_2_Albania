@@ -1,0 +1,8 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Albania,ALB,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,15.4
+Albania,ALB,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,17.9
+Albania,ALB,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,20.5
+Albania,ALB,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,23
+Albania,ALB,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,25.5
+Albania,ALB,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,28.1
